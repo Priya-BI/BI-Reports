@@ -1,4 +1,5 @@
 **Visualization in PowerBI using sample data**
+This project involves analyzing People analytics on basis of Income,genderdiversity,Country,Performance with the goal of uncovering key business insights.
 
 **Training Details**
 ![image](https://github.com/user-attachments/assets/03b52463-b4e6-4cc3-9ecd-061a71ce9419)
